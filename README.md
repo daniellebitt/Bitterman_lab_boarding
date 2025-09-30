@@ -2,6 +2,8 @@
 Harvard AIM - Bitterman lab onboarding document
 
 # Some always useful pointers (recommend to read carefully):
+>[Jurafsky & Martin Speech and Language Processing Textbook: Great NLP resource, recommend to read in entireety](https://web.stanford.edu/~jurafsky/slp3/)
+>
 >[Group reading list](https://github.com/shan23chen/paper-reading)
 >
 >[Annotated Deep Learning models with codes](https://nn.labml.ai/)
@@ -21,6 +23,10 @@ Harvard AIM - Bitterman lab onboarding document
 >[How to use weight and bias to record and tune your experience](https://wandb.ai/amogkam/transformers/reports/Hyperparameter-Optimization-for-Hugging-Face-Transformers--VmlldzoyMTc2ODI)
 >
 >[Good practice to structure and organize your ML codes](https://github.com/ashleve/lightning-hydra-template)
+>
+>[Introduction to language models blog post]((https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
+>
+>[Intuition behind language models blog post](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-166cf2fb278a)
 
 # Onboarding Logistics:
 Employee Tasks from BWH side:
